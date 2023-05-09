@@ -36,4 +36,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 Here is a screenshot of the front end interface before and after searching
 
 ![image](https://user-images.githubusercontent.com/55766787/237009518-c03a5e87-96bd-47b3-acd4-ca1f9616c123.png)
+
+--- 
 ![image](https://user-images.githubusercontent.com/55766787/237009405-457cabf9-eb2a-483b-84ef-85201a6a1eeb.png)
